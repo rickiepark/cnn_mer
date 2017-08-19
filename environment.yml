@@ -1,0 +1,14 @@
+name: cnn_mer
+dependencies:
+- python=3
+- ipython
+- ipython-notebook
+- scipy
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- pillow
+- pip:
+    - watermark
+    - tensorflow
